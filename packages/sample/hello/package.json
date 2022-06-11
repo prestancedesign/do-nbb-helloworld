@@ -1,4 +1,4 @@
 {
-  "type": "modules",
+  "type": "module",
   "main": "hello.js",
   "dependencies": {"nbb": "0.5.103"}}
