@@ -1,5 +1,5 @@
 {
-  "main": "hello.js",
+  "main": "hello.cjs",
   "dependencies": {
     "nbb": "^0.6.124"
   }

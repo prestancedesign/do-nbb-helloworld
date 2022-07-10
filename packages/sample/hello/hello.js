@@ -1,8 +1,5 @@
-function main(args) {
-    let name = args.name || 'stranger'
-    let greeting = 'Hello ' + name + '!'
-    console.log(greeting)
-    return {"body": greeting}
-  }
+import { loadFile } from 'nbb';
 
-exports.main = main
+const { handler } = await loadFile('./hello.cljs');
+
+export { handler };
