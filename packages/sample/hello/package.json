@@ -1,2 +1,7 @@
-{"main": "hello.mjs",
-  "dependencies": {"nbb": "0.5.103"}}
+{
+  "type": "module",
+  "main": "hello.mjs",
+  "dependencies": {
+    "nbb": "0.5.103"
+  }
+}
