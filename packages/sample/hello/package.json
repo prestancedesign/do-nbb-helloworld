@@ -1,6 +1,6 @@
 {
   "main": "hello.js",
   "dependencies": {
-    "nbb": "0.5.103"
+    "nbb": "^0.6.124"
   }
 }
