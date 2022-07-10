@@ -5,4 +5,4 @@ function main(args) {
     return {"body": greeting}
   }
 
-exports.main = main
+//exports.main = main
