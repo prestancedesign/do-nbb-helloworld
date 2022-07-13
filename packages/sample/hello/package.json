@@ -2,8 +2,5 @@
   "main": "hello.cjs",
   "dependencies": {
     "nbb": "^0.6.124"
-  },
-    "engines": {
-    "node": "18.x"
   }
 }

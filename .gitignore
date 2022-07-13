@@ -4,3 +4,4 @@ package-lock.json
 .nimbella
 __deployer__.zip
 .deployed
+.cache
